@@ -10,7 +10,7 @@
 ## 🎓 Education
 - **[Nanjing University of Information Science and Technology (NUIST)](https://www.nuist.edu.cn)**
 - **[South East Technological University (SETU), Ireland](https://www.setu.ie)**
-- **[Jingjiang Senior High School, Jiangsu Province](http://www.jsjjsz.com/)**
+- **[Jingjiang Senior High School, Jiangsu Province](http://www.sjjzx.cn/)**
 
 My academic path has equipped me with a robust understanding of both theoretical and practical aspects of Computer Science, particularly in the fields of data processing, machine learning, and software engineering.
 

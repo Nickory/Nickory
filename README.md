@@ -27,11 +27,13 @@ I am deeply interested in:
 - **Cloud Computing and Scalable ML Solutions**: Deploying robust and scalable machine learning models in cloud environments.
 
 ## 📂 Key Projects
-Here are a few projects that showcase my skills and interests:
 
-- **[FutureHealth Proteomic Prediction](https://github.com/Nickory/AWABoost-svm)** - A machine learning project aimed at predicting health outcomes using proteomics data, featuring various predictive models and optimized pipelines for healthcare analytics.
-- **[CEC2017 Function Testing](https://github.com/Nickory/CPO-python)** - Benchmarks optimization algorithms with standard CEC2017 functions, comparing performance across different techniques to improve efficiency and reliability in computational problem-solving.
-- **[NUIST Course Report Template](https://github.com/Nickory/nuistReport)** - A LaTeX template created to streamline the preparation of course reports for NUIST students, with customizable formats and pre-configured settings for ease of use.
+- **[🦔 CPO-python](https://github.com/Nickory/CPO-python)** - A Python implementation of the Crested Porcupine Optimizer (CPO), a novel metaheuristic algorithm inspired by the defensive mechanisms of the crested porcupine. This project provides a reproducible version of the CPO algorithm, designed for solving optimization problems in various fields.
+
+- **[📄 Nuist-experiment-report-latex](https://github.com/Nickory/Nuist-experiment-report-latex)** - A standardized LaTeX template for experimental reports at Nanjing University of Information Science and Technology (NUIST). This template aids students in producing well-formatted and consistent reports, offering a structured, user-friendly layout.
+
+- **[❤️ AWABoost-svm](https://github.com/Nickory/AWABoost-svm)** - An optimized AdaBoost-SVM model specifically tailored for heart disease classification tasks. It includes a pre-trained model, structured testing data, and an evaluation script, providing a comprehensive solution for healthcare classification challenges.
+
 
 ## 📊 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nickory&show_icons=true&theme=radical)](https://github.com/Nickory)

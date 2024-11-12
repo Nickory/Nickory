@@ -8,8 +8,9 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nickory&show_icons=true&theme=radical)](https://github.com/Nickory)
 
 ## 🎓 Education
-- **Nanjing University of Information Science and Technology (NUIST)**
-- **South East Technological University (SETU), Ireland**
+- **[Nanjing University of Information Science and Technology (NUIST)](https://www.nuist.edu.cn)**
+- **[South East Technological University (SETU), Ireland](https://www.setu.ie)**
+- **[Jingjiang Senior High School, Jiangsu Province](http://www.jsjjsz.com/)**
 
 My academic path has equipped me with a robust understanding of both theoretical and practical aspects of Computer Science, particularly in the fields of data processing, machine learning, and software engineering.
 
@@ -32,6 +33,7 @@ My academic path has equipped me with a robust understanding of both theoretical
 - **GitHub**: [@Nickory](https://github.com/Nickory)
 - **Email**: [zhwang@nuist.edu.cn](mailto:zhwang@nuist.edu.cn)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/Nickory)
-I am currently a dual-degree student at **Nanjing University of Information Science and Technology (NUIST)** and **South East Technological University (SETU)** in Ireland, pursuing a major in Computer Science. My focus areas include **Machine Learning**, **Data Science**, and **Software Development**. I am passionate about utilizing data-driven approaches to create solutions with real-world impact and advancing my expertise in computational technologies.
+
+I am currently a dual-degree student at **[Nanjing University of Information Science and Technology (NUIST)](https://www.nuist.edu.cn)** and **[South East Technological University (SETU), Ireland](https://www.setu.ie)**, pursuing a major in Computer Science. My focus areas include **Machine Learning**, **Data Science**, and **Software Development**. I am passionate about utilizing data-driven approaches to create solutions with real-world impact and advancing my expertise in computational technologies.
 
 Thank you for visiting my profile! I am always open to collaboration on innovative projects in machine learning, data science, and software development.

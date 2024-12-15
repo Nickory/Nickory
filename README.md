@@ -1,39 +1,80 @@
-# Hello, welcome to my GitHub profile! 👋
+# 🌟 Welcome to My GitHub Profile! 🌟
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nickory&color=blue) 
-![Followers](https://img.shields.io/github/followers/Nickory?label=Followers&style=social) 
-![Stars](https://img.shields.io/github/stars/Nickory?label=Stars&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Nickory&color=blue&style=flat)
+![Followers](https://img.shields.io/github/followers/Nickory?label=Followers&style=flat&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Nickory?label=Stars&style=flat&logo=github&logoColor=white)
+![Forks](https://img.shields.io/github/forks/Nickory?label=Forks&style=flat&logo=github&logoColor=white)
+![Contributors](https://img.shields.io/github/contributors/Nickory/CPO-python?label=Contributors&style=flat&logo=github&logoColor=white)
+![Top Language](https://img.shields.io/github/languages/top/Nickory/CPO-python?style=flat&logo=python&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nickory&show_icons=true&theme=radical)](https://github.com/Nickory)
 
-## 🎓 Education
-- **[Nanjing University of Information Science and Technology (NUIST)](https://www.nuist.edu.cn)**
-- **[South East Technological University (SETU), Ireland](https://www.setu.ie)**
-- **[Jingjiang Senior High School, Jiangsu Province](http://www.sjjzx.cn/)**
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nickory&show_icons=true&theme=dark&count_private=true&hide=prs&hide_title=true)](https://github.com/Nickory)
 
-My academic path has equipped me with a robust understanding of both theoretical and practical aspects of Computer Science, particularly in the fields of data processing, machine learning, and software engineering.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nickory&theme=dark&langs_count=6&hide_title=true)](https://github.com/Nickory)
 
-## 🔧 Technical Skills
-- **Programming Languages**: Python, C++, Java
-- **Frameworks & Libraries**: TensorFlow, PyTorch, Scikit-Learn
-- **Tools & Technologies**: Git, Docker, LaTeX, Jupyter Notebooks
-- **Data Science & Machine Learning**: Data Analysis, Feature Engineering, Model Deployment
-- **Cloud Platforms**: AWS, Google Cloud
+---
 
-## 📂 Key Projects
+## 🎓 **Education & Achievements**
 
-- **[🦔 CPO-python](https://github.com/Nickory/CPO-python)** - A Python implementation of the Crested Porcupine Optimizer (CPO), a novel metaheuristic algorithm inspired by the defensive mechanisms of the crested porcupine. This project provides a reproducible version of the CPO algorithm, designed for solving optimization problems in various fields.
+🔹 **[Nanjing University of Information Science and Technology (NUIST)](https://www.nuist.edu.cn)**  
+🔹 **[South East Technological University (SETU), Ireland](https://www.setu.ie)**  
+🔹 **[Jingjiang Senior High School, Jiangsu Province](http://www.sjjzx.cn/)**
 
-- **[📄 Nuist-experiment-report-latex](https://github.com/Nickory/Nuist-experiment-report-latex)** - A standardized LaTeX template for experimental reports at Nanjing University of Information Science and Technology (NUIST). This template aids students in producing well-formatted and consistent reports, offering a structured, user-friendly layout.
+My academic journey combines cutting-edge learning in **Computer Science**, with a strong foundation in **Machine Learning**, **Data Science**, and **Software Engineering**.
 
-- **[❤️ AWABoost-svm](https://github.com/Nickory/AWABoost-svm)** - An optimized AdaBoost-SVM model specifically tailored for heart disease classification tasks. It includes a pre-trained model, structured testing data, and an evaluation script, providing a comprehensive solution for healthcare classification challenges.
+---
 
-## 👥 Let's Connect
+## 🔧 **Technical Skills**
+
+**Languages**:  
+💻 Python, C++, Java, SQL
+
+**Frameworks & Libraries**:  
+📊 TensorFlow, PyTorch, Scikit-Learn, Keras, OpenCV
+
+**Tools & Technologies**:  
+🛠️ Git, Docker, LaTeX, Jupyter Notebooks, VSCode, PyCharm
+
+**Cloud Platforms**:  
+☁️ AWS, Google Cloud, Azure
+
+**Specializations**:  
+🔍 Data Analysis, Feature Engineering, Time Series Forecasting, Model Deployment, Deep Learning
+
+---
+
+## 💡 **Highlighted Projects**
+
+### 🦔 **[CPO-python](https://github.com/Nickory/CPO-python)**  
+A sophisticated Python implementation of the **Crested Porcupine Optimizer (CPO)**. This metaheuristic algorithm mimics the defensive behavior of the crested porcupine to solve complex optimization problems. Ideal for tackling real-world computational challenges across various industries.
+
+### 📄 **[Nuist-experiment-report-latex](https://github.com/Nickory/Nuist-experiment-report-latex)**  
+A custom LaTeX template designed for NUIST students to format experimental reports with precision and consistency. This tool provides a seamless, aesthetically-pleasing report-writing experience, ensuring uniformity across academic submissions.
+
+### ❤️ **[AWABoost-svm](https://github.com/Nickory/AWABoost-svm)**  
+An optimized **AdaBoost-SVM** model for heart disease prediction. This repository contains a pre-trained model and an evaluation script, offering a powerful, reproducible solution for health-related data classification.
+
+---
+
+## 🌍 **Let's Connect & Collaborate!**
+
 - **GitHub**: [@Nickory](https://github.com/Nickory)
 - **Email**: [zhwang@nuist.edu.cn](mailto:zhwang@nuist.edu.cn)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/Nickory)
 
-I am currently a dual-degree student at **[Nanjing University of Information Science and Technology (NUIST)](https://www.nuist.edu.cn)** and **[South East Technological University (SETU), Ireland](https://www.setu.ie)**, pursuing a major in Computer Science. My focus areas include **Machine Learning**, **Data Science**, and **Software Development**. I am passionate about utilizing data-driven approaches to create solutions with real-world impact and advancing my expertise in computational technologies.
+---
 
-Thank you for visiting my profile! I am always open to collaboration on innovative projects in machine learning, data science, and software development.
+🔹 I am currently pursuing dual degrees in **Computer Science** at **[Nanjing University of Information Science and Technology (NUIST)](https://www.nuist.edu.cn)** and **[South East Technological University (SETU), Ireland](https://www.setu.ie)**.  
+🔹 I specialize in **Machine Learning**, **Data Science**, and **Software Development** with a passion for creating impactful, data-driven solutions.
+
+---
+
+### 🚀 **Fun Facts**:
+- I thrive on tackling tough computational problems.
+- I enjoy building things that make a real-world difference.
+- Open to collaborating on innovative projects in **ML**, **AI**, and **Data Science**.
+
+Thank you for visiting my profile, and feel free to reach out if you're looking for collaboration or inspiration! Let’s innovate and build the future together. ✨

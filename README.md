@@ -1,69 +1,151 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Nickory&color=blue&style=flat)
 ![Followers](https://img.shields.io/github/followers/Nickory?label=Followers&style=flat&logo=github&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/Nickory?label=Stars&style=flat&logo=github&logoColor=white)
 ![Contributors](https://img.shields.io/github/contributors/Nickory/CPO-python?label=Contributors&style=flat&logo=github&logoColor=white)
 ![Top Language](https://img.shields.io/github/languages/top/Nickory/CPO-python?style=flat&logo=python&logoColor=white)
 
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nickory&theme=nord&column=7&no-frame=true&no-bg=true" alt="trophy" />
+</div>
+
 ---
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nickory&show_icons=true&theme=dark&count_private=true&hide=prs&hide_title=true)](https://github.com/Nickory)
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Nickory&show_icons=true&theme=dark&count_private=true&hide=prs&hide_title=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickory&theme=dark&langs_count=6&hide_title=true&layout=compact" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nickory&theme=dark&langs_count=6&hide_title=true)](https://github.com/Nickory)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nickory&theme=dark" alt="GitHub streak"/>
+</div>
 
 ---
 
 ## 🎓 **Education & Achievements**
 
-🔹 **[Nanjing University of Information Science and Technology (NUIST)](https://www.nuist.edu.cn)**  
-🔹 **[South East Technological University (SETU), Ireland](https://www.setu.ie)**  
-🔹 **[Jingjiang Senior High School, Jiangsu Province](http://www.sjjzx.cn/)**
+<table>
+  <tr>
+    <td>
+      <h3>🏛️ Universities</h3>
+      <ul>
+        <li><b><a href="https://www.nuist.edu.cn">Nanjing University of Information Science and Technology (NUIST)</a></b>
+          <br>Computer Science Major</li>
+        <li><b><a href="https://www.setu.ie">South East Technological University (SETU), Ireland</a></b>
+          <br>Computer Science Major</li>
+      </ul>
+    </td>
+    <td>
+      <h3>🎯 Focus Areas</h3>
+      <ul>
+        <li>Machine Learning</li>
+        <li>Data Science</li>
+        <li>Software Engineering</li>
+        <li>Cross-Disciplinary Computing</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-My academic journey combines cutting-edge learning in **Computer Science**, with a strong foundation in **Machine Learning**, **Data Science**, and **Software Engineering**.
+🎓 Previous Education: **[Jingjiang Senior High School, Jiangsu Province](http://www.sjjzx.cn/)**
 
 ---
 
 ## 🔧 **Technical Skills**
 
-**Languages**:  
-💻 Python, C++, Java, SQL, MATLAB
+<div align="center">
 
-**Frameworks & Libraries**:  
-📊 TensorFlow, PyTorch, Scikit-Learn, Keras
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-**Tools & Technologies**:  
-🛠️ Git, Idea, LaTeX, Jupyter Notebooks, VSCode, PyCharm
+### 📊 Frameworks & Libraries
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-**Specializations**:  
-🔍 Mathematical Modeling, Traditional Machine Learning, Multimodal Computer Vision, Cross-Disciplinary Fields
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+</div>
+
+### 🔍 Specializations
+- Mathematical Modeling
+- Traditional Machine Learning
+- Multimodal Computer Vision
+- Cross-Disciplinary Fields
 
 ---
 
 ## 💡 **Highlighted Projects**
 
-### 🦔 **[CPO-python](https://github.com/Nickory/CPO-python)**  
-A sophisticated Python implementation of the **Crested Porcupine Optimizer (CPO)**. This metaheuristic algorithm mimics the defensive behavior of the crested porcupine to solve complex optimization problems. Ideal for tackling real-world computational challenges across various industries.
-
-### 📄 **[Nuist-experiment-report-latex](https://github.com/Nickory/Nuist-experiment-report-latex)**  
-A custom LaTeX template designed for NUIST students to format experimental reports with precision and consistency. This tool provides a seamless, aesthetically-pleasing report-writing experience, ensuring uniformity across academic submissions.
-
-### ❤️ **[AWABoost-svm](https://github.com/Nickory/AWABoost-svm)**  
-An optimized **AdaBoost-SVM** model for heart disease prediction. This repository contains a pre-trained model and an evaluation script, offering a powerful, reproducible solution for health-related data classification.
+<table>
+  <tr>
+    <td>
+      <h3>🦔 <a href="https://github.com/Nickory/CPO-python">CPO-python</a></h3>
+      <p>A sophisticated Python implementation of the <b>Crested Porcupine Optimizer (CPO)</b>. This metaheuristic algorithm mimics the defensive behavior of the crested porcupine to solve complex optimization problems.</p>
+      <img src="https://img.shields.io/github/stars/Nickory/CPO-python?style=social" alt="Stars"/>
+    </td>
+    <td>
+      <h3>📄 <a href="https://github.com/Nickory/Nuist-experiment-report-latex">Nuist-experiment-report-latex</a></h3>
+      <p>A custom LaTeX template designed for NUIST students to format experimental reports with precision and consistency.</p>
+      <img src="https://img.shields.io/github/forks/Nickory/Nuist-experiment-report-latex?style=social" alt="Forks"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3>❤️ <a href="https://github.com/Nickory/AWABoost-svm">AWABoost-svm</a></h3>
+      <p>An optimized <b>AdaBoost-SVM</b> model for heart disease prediction. This repository contains a pre-trained model and an evaluation script, offering a powerful, reproducible solution for health-related data classification.</p>
+      <img src="https://img.shields.io/github/issues/Nickory/AWABoost-svm?style=social" alt="Issues"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌍 **Let's Connect & Collaborate!**
+## 🌍 **Current Status**
 
-- **GitHub**: [@Nickory](https://github.com/Nickory)
-- **Email**: [zhwang@nuist.edu.cn](mailto:zhwang@nuist.edu.cn)
+🔹 Currently pursuing dual degrees in **Computer Science** at **[NUIST](https://www.nuist.edu.cn)** and **[SETU, Ireland](https://www.setu.ie)**.  
+🔹 Passionate about creating impactful, data-driven solutions in:
+  - Mathematical Modeling
+  - Traditional Machine Learning
+  - Multimodal Computer Vision
+  - Cross-Disciplinary Fields
 
 ---
 
-🔹 I am currently pursuing dual degrees in **Computer Science** at **[Nanjing University of Information Science and Technology (NUIST)](https://www.nuist.edu.cn)** and **[South East Technological University (SETU), Ireland](https://www.setu.ie)**.  
-🔹 I am interested in **Mathematical Modeling**, **Traditional Machine Learning**, **Multimodal Computer Vision**, and **Cross-Disciplinary Fields** with a passion for creating impactful, data-driven solutions.
+## 📫 **Let's Connect!**
+
+<div align="center">
+  <a href="https://github.com/Nickory">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:zhwang@nuist.edu.cn">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 ---
-Thank you for visiting my profile, and feel free to reach out if you're looking for collaboration or inspiration! Let’s innovate and build the future together. ✨
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+  
+### ✨ Thank you for visiting my profile! Let's innovate and build the future together! ✨
+
+</div>

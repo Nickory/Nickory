@@ -23,10 +23,6 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickory&theme=dark&langs_count=6&hide_title=true&layout=compact" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nickory&theme=dark" alt="GitHub streak"/>
-</div>
-
 ---
 
 ## 🎓 **Education & Achievements**

@@ -33,9 +33,9 @@
       <h3>🏛️ Universities</h3>
       <ul>
         <li><b><a href="https://www.nuist.edu.cn">Nanjing University of Information Science and Technology (NUIST)</a></b>
-          <br>Computer Science Major</li>
+          <br>Computer Science  IOT Major</li>
         <li><b><a href="https://www.setu.ie">South East Technological University (SETU), Ireland</a></b>
-          <br>Computer Science Major</li>
+          <br>Computer Science  IOT Major</li>
       </ul>
     </td>
     <td>

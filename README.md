@@ -20,7 +20,7 @@
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Nickory&show_icons=true&theme=dark&count_private=true&hide=prs&hide_title=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickory&theme=dark&langs_count=6&hide_title=true&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickory&theme=dark&langs_count=8&hide_title=true&layout=compact" />
 </div>
 
 ---

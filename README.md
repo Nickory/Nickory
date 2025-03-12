@@ -99,7 +99,7 @@
       <img src="https://img.shields.io/github/stars/Nickory/CPO-python?style=social" alt="Stars"/>
     </td>
     <td>
-      <h3>📄 <a href="https://github.com/Nickory/Nuist-experiment-report-latex">Nuist-experiment-report-latex</a></h3>
+      <h3>📄 <a href="https://github.com/Nickory/Nuist-expriment-report-latex">Nuist-experiment-report-latex</a></h3>
       <p>A custom LaTeX template designed for NUIST students to format experimental reports with precision and consistency.</p>
       <img src="https://img.shields.io/github/forks/Nickory/Nuist-experiment-report-latex?style=social" alt="Forks"/>
     </td>

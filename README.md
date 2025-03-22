@@ -34,6 +34,8 @@
 
 ### 🏆 Achievements
 - **National College Student Innovation and Entrepreneurship Training Program (2024-2025)**<br>Led a national-level project and successfully completed the final evaluation (acceptance rate <5%, highest-tier undergraduate program in China).
+- **National College Student Mathematical Modeling Competition, Second Prize**<br>Awarded national second prize (acceptance rate <2%).
+- **Jiangsu Province Higher Mathematics Competition, First Prize**<br>Awarded first prize (acceptance rate <5%).
 
 🎓 Previous Education: **[Jingjiang Senior High School, Jiangsu Province](http://www.sjjzx.cn/)**
 

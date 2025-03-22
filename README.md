@@ -1,6 +1,9 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
 <div align="center">
+  <h3>🔍Seeking PhD or Research Master's Opportunities</h3>
+  <p>I’m eager to join a team or mentor who shares my enthusiasm for innovation. If my profile catches your interest or you’d like to explore potential opportunities together, I’d be thrilled to hear from you at <a href="mailto:zhwang@nuist.edu.cn">zhwang@nuist.edu.cn</a>!</p>
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nickory&color=blue&style=flat)
 ![Followers](https://img.shields.io/github/followers/Nickory?label=Followers&style=flat&logo=github&logoColor=white)

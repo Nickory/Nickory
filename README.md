@@ -30,11 +30,9 @@
 
 ## 🎓 **Education & Achievements**
 
-| | |
-
-| 🏛️ Universities | 🎯 Focus Areas |
-| - **[Nanjing University of Information Science and Technology (NUIST)](https://www.nuist.edu.cn)**<br>Computer Science  IOT Major<br>- **[South East Technological University (SETU), Ireland](https://www.setu.ie)**<br>Computer Science  IOT Major | - Machine Learning<br>- Data Science<br>- Software Engineering<br>- Cross-Disciplinary Computing |
-
+| Institution | Focus Areas |
+|------------|-------------|
+| **🏛️ Nanjing University of Information Science and Technology (NUIST)**<br>📍 [Website](https://www.nuist.edu.cn) • 🎓 Computer Science (IoT Major)<br><br>**🌍 South East Technological University (SETU), Ireland**<br>📍 [Website](https://www.setu.ie) • 🎓 Computer Science (IoT Major) | **🎯 Core Competencies:**<br>- 🤖 Machine Learning & AI<br>- 📊 Data Science & Analytics<br>- 💻 Software Engineering<br>- 🔄 Cross-Disciplinary Computing<br><br>**🏆 Notable Achievements:**<br>- (Add awards/honors here) |
 ### 🏆 Achievements
 - **National College Student Innovation and Entrepreneurship Training Program (2024-2025)**<br>Led a national-level project and successfully completed the final evaluation (acceptance rate <5%, highest-tier undergraduate program in China).
 - **National College Student Mathematical Modeling Competition, Second Prize （2023）**<br>Awarded national second prize (acceptance rate <2%).

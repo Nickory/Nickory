@@ -1,7 +1,6 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
 <div align="center"> 
-  <h3>🔍 Seeking PhD or Research Master's Opportunities</h3> 
   <p>
     I am currently pursuing my PhD at 
     <strong>PCA Lab</strong>, under the supervision of 

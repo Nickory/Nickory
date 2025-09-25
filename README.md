@@ -1,8 +1,18 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-<div align="center">
-  <h3>🔍Seeking PhD or Research Master's Opportunities</h3>
-  <p>I’m eager to join a team or mentor who shares my enthusiasm for innovation. If my profile catches your interest or you’d like to explore potential opportunities together, I’d be thrilled to hear from you at <a href="mailto:zhwang@nuist.edu.cn">zhwang@nuist.edu.cn</a>!</p>
+<div align="center"> 
+  <h3>🔍 Seeking PhD or Research Master's Opportunities</h3> 
+  <p>
+    I am currently pursuing my PhD at 
+    <strong>PCA Lab</strong>, under the supervision of 
+    <a href="https://baike.baidu.com/item/%E6%9D%A8%E5%81%A5/9376288" target="_blank">Prof. Jian Yang</a>, 
+    <a href="https://scholar.google.com.tw/citations?hl=en&user=6CIDtZQAAAAJ" target="_blank">IAPR Fellow</a>. 
+  </p>
+  <p>
+    If my profile catches your interest or you’d like to explore potential opportunities together, 
+    I’d be thrilled to hear from you at 
+    <a href="mailto:zhwang@nuist.edu.cn">zhwang@nuist.edu.cn</a>!
+  </p> 
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nickory&color=blue&style=flat)

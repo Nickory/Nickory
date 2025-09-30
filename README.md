@@ -2,7 +2,7 @@
 
 <div align="center"> 
   <p>
-    I am currently pursuing my PhD at 
+    Hi！I am currently pursuing my PhD at 
     <strong>PCA Lab</strong>, under the supervision of 
     <a href="https://baike.baidu.com/item/%E6%9D%A8%E5%81%A5/9376288" target="_blank">Prof. Jian Yang</a>, 
     <a href="https://scholar.google.com.tw/citations?hl=en&user=6CIDtZQAAAAJ" target="_blank">IAPR Fellow</a>. 

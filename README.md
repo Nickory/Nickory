@@ -43,6 +43,7 @@
 |------------|-------------|
 | **🏛️ Nanjing University of Information Science and Technology (NUIST)**<br>📍 [Website](https://www.nuist.edu.cn) • 🎓 Computer Science (IoT Major)<br><br>**🌍 South East Technological University (SETU), Ireland**<br>📍 [Website](https://www.setu.ie) • 🎓 Computer Science (IoT Major) | **🎯 Core Competencies:**<br>- 🤖 Machine Learning & AI<br>- 📊 Data Science & Analytics<br>- 💻 Software Engineering<br>- 🔄 Cross-Disciplinary Computing<br><br> |
 ### 🏆 Achievements
+- **National Scholarship (2024-2025)**<br> Awarded by the Ministry of Education to the top 2% of students nationwide for exceptional academic and comprehensive excellence.
 - **National College Student Innovation and Entrepreneurship Training Program (2024-2025)**<br>Led a national-level project and successfully completed the final evaluation (acceptance rate <5%, highest-tier undergraduate program in China).
 - **National College Student Mathematical Modeling Competition, Second Prize （2023）**<br>Awarded national second prize (acceptance rate <2%).
 - **Jiangsu Province Higher Mathematics Competition, First Prize （2023）**<br>Awarded first prize (acceptance rate <5%).

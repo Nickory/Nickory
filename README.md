@@ -1,12 +1,20 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-<div align="center"> 
+<!-- <div align="center"> 
   <p>
     Hi！I am currently pursuing my PhD at 
     <strong>PCA Lab</strong>, under the supervision of 
     <a href="https://scholar.google.com.tw/citations?hl=en&user=6CIDtZQAAAAJ" target="_blank">Prof. Jian Yang</a>.
     <!-- <a href="https://scholar.google.com.tw/citations?hl=en&user=6CIDtZQAAAAJ" target="_blank">IAPR Fellow</a>.  -->
+  </p> -->
+  <div align="center"> 
+  <p>
+    Hi! I am currently pursuing my Bachelor's degree at 
+    Nanjing University of Information Science and Technology (NUIST), 
+    working closely with <a href="https://faculty.nuist.edu.cn/wbw/zh_CN/index.htm" target="_blank">Prof. Baowei Wang</a> and <a href="https://faculty.nuist.edu.cn/chengxu/zh_CN/index.htm" target="_blank">Prof. Xu Cheng</a>.
   </p>
+</div>
+</div>
   <p>
     If my profile catches your interest or you’d like to explore potential opportunities together, 
     I’d be thrilled to hear from you at 

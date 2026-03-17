@@ -6,7 +6,8 @@
     <strong>PCA Lab</strong>, under the supervision of 
     <a href="https://scholar.google.com.tw/citations?hl=en&user=6CIDtZQAAAAJ" target="_blank">Prof. Jian Yang</a>.
     <!-- <a href="https://scholar.google.com.tw/citations?hl=en&user=6CIDtZQAAAAJ" target="_blank">IAPR Fellow</a>.  -->
-  </p> -->
+  </p> 
+  
   <div align="center"> 
   <p>
     Hi! I am currently pursuing my Bachelor's degree at 

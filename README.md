@@ -30,11 +30,6 @@
 
 
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nickory&theme=nord&column=7&no-frame=true&no-bg=true" alt="trophy" />
-</div>
-
 ---
 
 ## 📊 GitHub Stats

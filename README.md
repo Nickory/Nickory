@@ -27,7 +27,7 @@
 ![Followers](https://img.shields.io/github/followers/Nickory?label=Followers&style=flat&logo=github&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/Nickory?label=Stars&style=flat&logo=github&logoColor=white)
 ![Contributors](https://img.shields.io/github/contributors/Nickory/CPO-python?label=Contributors&style=flat&logo=github&logoColor=white)
-![Top Language](https://img.shields.io/github/languages/top/Nickory/CPO-python?style=flat&logo=python&logoColor=white)
+
 
 </div>
 
